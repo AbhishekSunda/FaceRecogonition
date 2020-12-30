@@ -20,7 +20,7 @@ class App extends Component{
 		super();
 		this.state={
 			input:'',
-			imageUrl:'https://media.glamour.com/photos/569579a35fff94d44eebf3cf/master/pass/beauty-2014-02-13-spring-beauty-vacation-glow-main.jpg',
+			imageUrl:'https://www.google.com/url?sa=i&url=https%3A%2F%2Fnews.berkeley.edu%2F2014%2F09%2F16%2Fhuman-faces-are-so-variable-because-we-evolved-to-look-unique%2F&psig=AOvVaw0DTyXwpWCjUKJ2AAkYysN9&ust=1609394806034000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOj065279O0CFQAAAAAdAAAAABAD',
 			clarifai_data:[],
 			isSignedIn:false,
 			route:'signin',
