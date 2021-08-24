@@ -20,7 +20,7 @@ class App extends Component{
 		super();
 		this.state={
 			input:'',
-			imageUrl:'https://news.berkeley.edu/wp-content/uploads/2014/09/sixfaces410.jpg',
+			imageUrl:'',
 			clarifai_data:[],
 			isSignedIn:false,
 			route:'signin',
